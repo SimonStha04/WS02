@@ -8,7 +8,7 @@ h1 {
 }
 
 p {
-    color: darkgreen;
+    color: #eea955;
     font-size: 18px;
 }
 h2 {
@@ -34,19 +34,19 @@ th, td {
 }
 
 th {
-    background-color: lightblue;
+    background-color: #588a87;
 }
 input, textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid gray;
+    border: 1px solid beige;
     border-radius: 5px;
     box-sizing: border-box;
 }
 
 input[type="submit"] {
-    background-color: blue;
+    background-color: lavenderblush;
     color: white;
     cursor: pointer;
 }
